@@ -23,6 +23,12 @@
 		<groupId>org.springframework</groupId>
 		<artifactId>spring-context</artifactId>
 		<version>6.0.3</version>
+	</dependency>
+
+	<dependency>
+		<groupId>com.helger.commons</groupId>
+		<artifactId>ph-commons</artifactId>
+		<version>11.0.1</version>
 </dependency>
 
   </dependencies>
